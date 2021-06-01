@@ -1,7 +1,7 @@
-> * 原文地址：[TC39-management](https://github.com/tc39/how-we-work/blob/master/management.md)
+> * 原文地址：[TC39 management](https://github.com/tc39/how-we-work/blob/master/management.md)
 > * 原文作者：[Ecma TC39](https://github.com/tc39/how-we-work)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-> * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/ECMA-TC39/How-to-become-a-TC39-Invited-Expert.md](https://github.com/xitu/gold-miner/blob/master/article/ECMA-TC39/How-to-become-a-TC39-Invited-Expert.md)
+> * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/ECMA-TC39/TC39-management.md](https://github.com/xitu/gold-miner/blob/master/article/ECMA-TC39/TC39-management.md)
 > * 译者：
 > * 校对者：
 # TC39 management
